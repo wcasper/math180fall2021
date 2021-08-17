@@ -16,31 +16,29 @@ permalink: /extras/syllabus
 **Course website:** we will use Canvas website (Spring 2021 MATH 412-1 21341), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math412spring2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ## Course meeting information
-* Section: 01
-* Course ID: 18421
-* Time: TTh 10:00AM-11:15AM
+* Section: 52
+* Course ID: 22580
+* Time: MW 10:00AM-11:50AM
 * Meeting Dates: 08/21/2021-12/10/2021
-* Location: MH 476
+* Location: Online 
 
 ## Course catalog description
-This course is a first-year course in complex analysis at the senior level.  Topics include complex differentiation and integration, Cauchy's theorem and integral formulas, maximum modulus theorem, harmonic functions, Laurent series, analytic continuation, entire and meromorphic functions, conformal transformations and special functions.
+Fundamentals of problem solving via contest problems, logic puzzles, games, riddles, paradoxes.  Mathematical content may include symbolic logic, sets, mappings, cardinality, infinite sets, graph theory, modular arithmetic, probability, combinatorics.
 
-**Course prerequisites:** MAth 350 with a "C" (2.0) or better; or graduate standing.
+**Course prerequisites:** Three years of high school mathematics, including two years of algebra and one year of geometry.
 
 ## Course Material
 ### Required Textbooks
 The textbook for this course is:
 
-1. *Complex Analysis* by Theodore W. Gamelin (Springer series Undergraduate Texts in Mathematics)
-
-If you instead have a copy of the earlier 7th edition, that should also work.
+1. *Gallery of the Infinite* by Richard Schwartz
 
 ### Required technology
-For this course, you will need to have access to technology that will allow you to join Zoom for office hours and to upload assignments on Canvas
+For this course, you will need to have access to technology that will allow you to join Zoom for lectures and office hours and to upload assignments on Canvas
 
 * **Canvas:** We will be using the Canvas Learning Management System for all course materials and communication.  See below for details.
-* **Zoom:** For this course, you will need to have access to technology that will allow you to join Zoom for remote office hours.
-* **Internet:** You will require ongoing access to a computer with reliable internet connectivity for assignments
+* **Zoom:** For this course, you will need to have access to technology that will allow you to join Zoom for remote office hours and lectures.
+* **Internet:** You will require ongoing access to a computer with reliable internet connectivity for assignments and lectures
 
 ### Technology requests
 If you do not have access to the necessary technology, you may be able to request a laptop, MiFi (wi-fi hotpot), and/or headset from the CSUF IT Department by filling out this <a target="_parent" href="https://apps.fullerton.edu/coviddevicerequest/Request.aspx">technology device request form (link)</a>.
@@ -52,9 +50,10 @@ You can get free and low-cost software for being an active CUSF student.  Softwa
 ## Grading
 ### Grading scheme
 
-* Homework: 32%
-* Midterm Exams: 2 at 17% each
-* Final Exam: 34%
+* Homework: 30%
+* Pre-class assignments: 20%
+* In-class assignments: 30%
+* Final Exam: 20%
 
 ### Grading scale (tentative)
 
