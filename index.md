@@ -6,14 +6,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Math 412 Complex Analysis
+title: Math 180 Mathematical Methods of Problem Solving
 ---
 
 **Instructor:** Dr. W. Riley Casper
 
 **Email:** wcasper@fullerton.edu
 
-**Course meetings:** Tuesday and Thursday 10:00AM-11:15AM
+**Course meetings:** Monday and Wednesday  10:00AM-11:50AM
 
 **Office hours:** to be determined and by appointment
 
