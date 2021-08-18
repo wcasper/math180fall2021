@@ -4,7 +4,7 @@ title: About Your Instructor
 permalink: /instructor/
 ---
 
-<p align="center"><img src="fig/casper.jpg"/></p>
+<p align="center"><img src="../fig/casper.jpg"/></p>
 
 ## W. Riley Casper
 * Email: [wcasper@fullerton.edu](mailto:wcasper@fullerton.edu)
