@@ -9,7 +9,7 @@ layout: home
 title: Math 180 Strategies of Problem Solving
 ---
 
-<div style="text-aligh:center"><img src="fig/Themes.png"/></div>
+<p align="center"><img src="fig/Themes.png"/></p>
 
 
 **Instructor:** Dr. W. Riley Casper
