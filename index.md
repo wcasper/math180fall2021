@@ -28,7 +28,7 @@ title: Math 180 Strategies of Problem Solving
 
 **First steps**
 
-Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites for remote office hours:
+Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites for lectures and office hours:
 * A reliable internet connection
 * Zoom
 * A webcam
