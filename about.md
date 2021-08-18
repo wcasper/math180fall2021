@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the course webpage for a first course in complex analysis at the upper-division undergraduate level.
+This is the course webpage for a Strategies of Problem Solving -- a course intended to introduce new undergraduate students to some of the ideas and notation of abstract mathematics through the exploration of games, puzzles, and problems.
 
