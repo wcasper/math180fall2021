@@ -20,7 +20,7 @@ title: Math 180 Strategies of Problem Solving
 
 **Office hours:** to be determined and by appointment
 
-**Zoom number for remote office hours:** <a target="_parent" href="">FIXME</a>
+**Zoom number for lectures/office hours:** <a target="_parent" href="https://fullerton.zoom.us/j/86718734195?pwd=K3BZVDRYSTFtUkZhdVR5UWtYcUY4dz09">86718734195</a>
 
 **Passcode:** 112358
 
