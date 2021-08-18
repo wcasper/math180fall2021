@@ -3,12 +3,12 @@ layout: page
 title: Tic-tac-toe
 ---
 
-<p align="center"><img src="fig/tic-tac-toe.png" style="height:50%;"/></p>
+<p align="center"><img src="fig/tic-tac-toe.png" width="50%"/></p>
 
 ## Introduction
 
 The game **Tic-tac-toe** is familiar to everyone and has its origins in ancient antiquity.
-In fact, early variations of the game can be found on Egyptian roofing tiles dated back to $1300$ BC!
+In fact, early variations of the game can be found on Egyptian roofing tiles dated back to $$1300$$ BC!
 
 ## Playing tic-tac-toe online
 
