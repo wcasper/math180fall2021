@@ -15,6 +15,8 @@ permalink: /extras/syllabus
 
 **Course website:** we will use Canvas website (Fall MATH 180-52 22580), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math180fall2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
+___
+
 ## Course meeting information
 * Section: 52
 * Course ID: 22580
@@ -22,10 +24,16 @@ permalink: /extras/syllabus
 * Meeting Dates: 08/21/2021-12/10/2021
 * Location: Online 
 
+___
+
+
 ## Course catalog description
 Fundamentals of problem solving via contest problems, logic puzzles, games, riddles, paradoxes.  Mathematical content may include symbolic logic, sets, mappings, cardinality, infinite sets, graph theory, modular arithmetic, probability, combinatorics.
 
 **Course prerequisites:** Three years of high school mathematics, including two years of algebra and one year of geometry.
+
+___
+
 
 ## Course Material
 ### Required Textbooks
@@ -46,6 +54,9 @@ If you do not have access to the necessary technology, you may be able to reques
 
 ### Software for students
 You can get free and low-cost software for being an active CUSF student.  Software downloads and request forms can be found on the <a target="_parent" href="https://fullerton.edu/it/students/software/">CSUF student software website (link)</a>
+
+___
+
 
 ## Grading
 ### Grading scheme
@@ -71,6 +82,9 @@ The following is a **tentative** grading scale translating your percentage grade
 | C  | 70-76.9 | 
 | D  | 60-69.9 | 
 | F  |  0-59.9 |
+
+___
+
 
 ## Policies and expectations
 I reserve the right to adjust the policies in this syllabus on a case-by-case basis.
@@ -101,26 +115,23 @@ Three possible ways of accomplishing this (in order of preference) are
 * writing your solution and using a scanner or smartphone to scan it as a PDF document and upload it
 * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
 
+___
+
+
 ## Exams
-Exams will take place during class at the times stated below. 
-
-If you have an accommodation from Disability Support Services (such as time-and-a-half), it is **your** responsibility to coordinate with the instructor before each exam.
-
-**Midterm Exams**
-There will be two midterm exams, each lasting 1 hour.
-Each midterm will be worth 17\% of your final grade.
-Midterms will be held during class time in our Zoom meeting on the following dates:
-* Thursday, September 23 2021
-* Thursday, October 28 2021
-
 **Final Exam**
-The final exam will be cumulative with both written and computational parts, and will account for 30\% of your grade.
-It will be held in on Tuesday, December 14 from 9AM-10:50AM in our usual classroom.
+The final exam will be cumulative with both written and computational parts, and will account for 20\% of your grade.
+
+___
+
 
 ## Important academic calendar dates
 * August 21 to September 3: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
 * Sept 7: Last day for students to drop without a grade of ``W'' using Titan Online. Last day for students to ADD with a permit. All permits expire at midnight.
 * November 12: Last day to submit a withdrawal request from classes with a grade of ``W" for serious and compelling reasons.
+
+___
+
 
 ## Academic integrity
 Students who violate university standards of academic integrity are subject to disciplinary sanctions, including failure in the course and suspension from the university. Since dishonesty in any form harms the individual, other students, and the university, policies on academic integrity are strictly enforced. Examples of academic dishonesty include, but are not limited to:
@@ -129,6 +140,9 @@ Students who violate university standards of academic integrity are subject to d
 3. copying homework solutions from online.
 
 You should familiarize yourself with the academic integrity guidelines found in the current student handbook.  Consult the <a target="_parent" href="http://www.fullerton.edu/senate/publications_policies_resolutions/ups/UPS%20300/UPS%20300.021.pdf">University Policy Statement (UPS) 300.021 regarding Academic Dishonesty (link)</a> for details.
+
+___
+
 
 ## Accommodations
 ### Disability Support Services (DSS)
@@ -148,6 +162,9 @@ Please contact the following if you have:
 
 ### Religious and other accommodations
 If you require accommodations for religious or other reasons, please email the instructor.
+
+___
+
 
 ## President's Directive & Health and Safety Guidelines
 Cal State Fullerton (CSUF) is actively working to maintain the safety of our campus community in
