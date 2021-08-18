@@ -13,7 +13,7 @@ permalink: /extras/syllabus
 
 **Office hourse:** To be announced.  Additional office hours are always available by request.
 
-**Course website:** we will use Canvas website (Spring 2021 MATH 412-1 21341), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math180fall2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
+**Course website:** we will use Canvas website (Fall MATH 180-52 22580), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math180fall2021">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ## Course meeting information
 * Section: 52
