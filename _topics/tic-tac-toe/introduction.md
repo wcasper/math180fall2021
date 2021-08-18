@@ -4,7 +4,7 @@ title: Tic-tac-toe Introduction
 permalink: /topics/tic-tac-toe/introduction
 ---
 
-<p align="center"><img src="tic-tac-toe/fig/tic-tac-toe.png" width="50%"/></p>
+<p align="center"><img src="fig/tic-tac-toe.png" width="50%"/></p>
 
 ## Introduction
 
