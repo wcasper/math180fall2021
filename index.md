@@ -6,8 +6,11 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Math 180 Mathematical Methods of Problem Solving
+title: Math 180 Strategies of Problem Solving
 ---
+
+<div style="text-aligh:center"><img src="fig/Themes.png"/></div>
+
 
 **Instructor:** Dr. W. Riley Casper
 
