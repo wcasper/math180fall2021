@@ -28,6 +28,6 @@ My research focuses on applications of algebra and algebraic geometry to various
 * [Reflective prolate-spheroidal operators and the KP/KdV equations](https://www.pnas.org/content/116/37/18310) <br/>  Proc. Natl. Acad. of Sci. USA (2019)
 * [Integral operators, bispectrality and growth of Fourier algebras](https://doi.org/10.1515/crelle-2019-0031) <br/>  J. Reine Angew. Math "Crelle's Journal" (2019)
 * [Elementary examples of solutions to Bochner's problem for matrix differential operators](https://www.sciencedirect.com/science/article/abs/pii/S0021904518300182) <br/> J. Approx. Theory (2018)
-* [Quantum Algorithm Implementations for Beginners](https://arxiv.org/abs/1804.03719) <br/> arXiv (2018)
+* [Quantum Algorithm Implementations for Beginners](https://arxiv.org/abs/1804.03719) <br/> arXiv preprint (2018)
 * [Ensemble-based global ocean data assimilation](https://www.sciencedirect.com/science/article/abs/pii/S1463500313001649) <br/> J. Ocean Modelling (2013)
 
