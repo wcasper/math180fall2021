@@ -3,7 +3,7 @@ layout: page
 title: Tic-tac-toe
 ---
 
-<p align="center"><img src="fig/tic-tac-toe.png"/></p>
+<p align="center"><img src="fig/tic-tac-toe.png" style="height:50%;"/></p>
 
 ## Introduction
 
