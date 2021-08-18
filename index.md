@@ -12,7 +12,7 @@ title: Math 180 Strategies of Problem Solving
 <p align="center"><img src="fig/Themes.png"/></p>
 
 
-**Instructor:** Dr. W. Riley Casper [About your instructor](instructor)
+**Instructor:** Dr. W. Riley Casper [(About your instructor)](instructor)
 
 **Email:** wcasper@fullerton.edu
 
