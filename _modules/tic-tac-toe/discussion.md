@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tic-tac-toe Discussion
-permalink: /topics/tic-tac-toe/discussion
+permalink: /modules/tic-tac-toe/discussion
 ---
 
 ## Part 1: Rules
