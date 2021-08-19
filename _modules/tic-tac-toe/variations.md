@@ -4,8 +4,6 @@ title: Variations of tic-tac-toe
 permalink: /modules/tic-tac-toe/variations
 ---
 
-<p align="center"><img src="fig/tic-tac-toe.png" width="50%"/></p>
-
 ## Some variations of Tic-tac-toe
 
 ### Game of Fifteen
@@ -28,7 +26,7 @@ Similar to the Game of Fifteen, we can make the **Game of Thirty-four**, whose r
 3. The first player to collect four numbers that add up to $$34$$ wins.
 4. If all the numbers have been chosen and no player has won, then the game is a draw.
 
-### $$m,n,k$$-game
+### The $$m,n,k$$-game
 
 A more general variation of tic-tac-toe is the $$m,n,k$$-game.
 The rules are identical, except it is played on an $$m\times n$$ grid rather than a $$3\times 3$$ grid, and the goal is to get $$k$$ in a row.
