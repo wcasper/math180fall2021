@@ -1,29 +1,28 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-08-15 18:11:51 -0700
-categories: jekyll update
+title:  "Welcome to Math 180!"
+date:   2021-08-18 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to Math 180!  In this class we will learn mathematical strategies of problem solving through the lens of puzzles, games, and other problems.
+We will also get some first-hand experience with abstract mathematics, including sets, functions, relations, and countability!
 
-Jekyll requires blog post files to be named according to the following format:
+## First steps
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Please familiarize yourself with the [syllabus (link)](https://wcasper.github.io/math180fall2021/extras/syllabus) and the Canvas site for this course, starting with the [Orientation Module (link)](https://csufullerton.instructure.com/courses/3309029/modules). Also, be sure that you have the necessary technological requisites:
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* A reliable internet connection
+* Zoom
+* A webcam
+* A microphone
 
-Jekyll also offers powerful support for code snippets:
+It will be preferred that you have a computer or laptop during class, as multi-tasking (being active in Zoom and on a games website, for example) will be challenging on a phone or tablet alone.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+This class is highly interactive, and will require you to attend class meetings regularly and be engaged. Activities and other students' learning will depend on your participation!
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+We will also be using an array of tools throughout the semester, including VoiceThread, GoogleDocs, and external websites that will require creating accounts. We will discuss these tools in class as they become relevant.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Please reach out as soon as possible if you have any questions or concerns.
+
+## Additional Information
+
+* [A guide to netiquette](https://titaniumhelp.fullerton.edu/m/StudentSelf-HelpGuide/l/646667-student-what-is-netiquette)
