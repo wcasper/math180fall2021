@@ -8,7 +8,6 @@ permalink: /modules/tic-tac-toe/discussion
 * Discuss within your group what the rules are for playing tic-tac-toe.  Make sure to carefully describe how to play the game, what each player can or must do on their turn, under what conditions the game ends, and what determines the winner (or a tie).
 
 * Create and share a google document where you explicitly type up the set of rules that your group agreed on.
-Make sure every group member has access to this later!
 
 ## Part 2: Loopholes
 
