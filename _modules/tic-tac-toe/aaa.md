@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tic-tac-toe Introduction
-permalink: /topics/tic-tac-toe/introduction
+permalink: /topics/tic-tac-toe/aaa
 ---
 
 <p align="center"><img src="fig/tic-tac-toe.png" width="50%"/></p>
