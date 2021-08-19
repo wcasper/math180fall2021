@@ -39,9 +39,7 @@ The Game of Fifteen turns out to be identical to Tic-tac-toe, though it is not i
 To see why this is, consider the following $$3\times 3$$ grid of numbers
 
 | 8 | 1 | 6 |
-| - | - | - |
 | 3 | 5 | 7 |
-| - | - | - |
 | 4 | 9 | 2 |
 
 * **Part A** Show that each row, each column and each diagonal of the above grid adds up to $$15$$.
