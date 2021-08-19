@@ -71,5 +71,7 @@ collections:
     output: true
   exams:
     output: true
+  modules:
+    output: true
 
 
