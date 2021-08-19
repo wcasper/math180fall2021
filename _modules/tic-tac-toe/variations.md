@@ -4,7 +4,6 @@ title: Variations of tic-tac-toe
 permalink: /modules/tic-tac-toe/variations
 ---
 
-## Some variations of Tic-tac-toe
 ### Game of Fifteen
 In the **Game of Fifteen**, two players take turns choosing numbers according to the following rules.
 
