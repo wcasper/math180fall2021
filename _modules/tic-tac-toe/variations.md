@@ -33,10 +33,10 @@ The Game of Fifteen turns out to be identical to Tic-tac-toe, though it is not i
 To see why this is, consider the following $$3\times 3$$ grid of numbers
 
 $$
-\begin{array}{|c|c|c|}
+\begin{array}{|c|c|c|}\hline
  8 & 1 & 6 \\\hline
  3 & 5 & 7 \\\hline
- 4 & 9 & 2 
+ 4 & 9 & 2 \\\hline
 \end{array}
 $$
 
