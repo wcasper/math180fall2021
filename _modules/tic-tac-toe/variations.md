@@ -38,13 +38,13 @@ The rules are identical, except it is played on an $$m\times n$$ grid rather tha
 The Game of Fifteen turns out to be identical to Tic-tac-toe, though it is not immediately apparent.
 To see why this is, consider the following $$3\times 3$$ grid of numbers
 
-<center>
-
-| 8 | 1 | 6 |
-| 3 | 5 | 7 |
-| 4 | 9 | 2 |
-
-</center>
+$$
+\begin{array}{|c|c|c|}
+ 8 & 1 & 6 \\\hline
+ 3 & 5 & 7 \\\hline
+ 4 & 9 & 2 
+\end{array}
+$$
 
 * **Part A** Show that each row, each column and each diagonal of the above grid adds up to $$15$$.
 Squares with this property are called **magic squares**.
