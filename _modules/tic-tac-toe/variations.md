@@ -58,7 +58,8 @@ $$
 $$
 
 * **Part A** Show that each row, each column and each diagonal of the above grid adds up to $$34$$.
-* **Part B** Explain why even though we have a similar situation as in Problem 1, it is **not** true that the Game of Thirty-four is the same as the $$4,4,4$$-game.
+* **Part B** Find some examples of four entries in the matrix above which sum to $$34$$ but are not rows, columns, or diagonals.
+* **Part C** Explain why even though we have a similar situation as in Problem 1, it is **not** true that the Game of Thirty-four is the same as the $$4,4,4$$-game.
 
 
 
