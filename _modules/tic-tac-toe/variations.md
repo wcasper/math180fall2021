@@ -46,7 +46,19 @@ Squares with this property are called **magic squares**.
 * **Part C** Use the results of Problem 1 and Problem 2 to explain why the Game of Fifteen is the same as Tic-tac-toe.
 
 ### Problem 2
-Consider the
+Consider the table below, which is an example of a $$4\times 4$$ magic square.
+
+$$
+\begin{array}{|c|c|c|c|}\hline
+ 2 & 16 & 13 &  3\\\hline
+11 &  5	&  8 & 10\\\hline
+ 7 &  9 & 12 &  6\\\hline
+14 &  4 &  1 & 15\\\hline
+\end{array}
+$$
+
+* **Part A** Show that each row, each column and each diagonal of the above grid adds up to $$34$$.
+* **Part B** Explain why even though we have a similar situation as in Problem 1, it is **not** true that the Game of Thirty-four is the same as the $$4,4,4$$-game.
 
 
 
