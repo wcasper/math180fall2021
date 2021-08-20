@@ -8,7 +8,7 @@ We will also get some first-hand experience with abstract mathematics, including
 
 ## First steps
 
-Please familiarize yourself with the [syllabus (link)](https://wcasper.github.io/math180fall2021/extras/syllabus) and the Canvas site for this course, starting with the [Orientation Module (link)](https://csufullerton.instructure.com/courses/3309029/modules). Also, be sure that you have the necessary technological requisites:
+Please familiarize yourself with the [syllabus (link)](https://wcasper.github.io/math180fall2021/syllabus) and the Canvas site for this course, starting with the [Orientation Module (link)](https://csufullerton.instructure.com/courses/3309029/modules). Also, be sure that you have the necessary technological requisites:
 
 * A reliable internet connection
 * Zoom
