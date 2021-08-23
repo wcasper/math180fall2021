@@ -26,6 +26,8 @@ title: Math 180 Strategies of Problem Solving
 
 **Syllabus:** <a target="_parent" href="syllabus.html">Course syllabus (link)</a>
 
+**Rooms for virtual instruction:** <a target="_parent" href="available-rooms.html">List of reserved rooms on campus (link)</a>
+
 **First steps**
 
 Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3309029/modules">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites for lectures and office hours:
