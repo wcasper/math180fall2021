@@ -37,28 +37,3 @@ Discuss in careful detail what the perfect strategy is for the first player (*P1
 
 Record your strategy in the google document for your particular group below.
 
-### Ultra weakly solved games
-
-A fundamental question about any two-player game is which one of the players can force a win or tie.
-Intriguingly, sometimes we can determine which player *has* such a strategy, even if we don't know what it is.
-In a way, these are the most intriguing examples, since it involves a non-constructive existence argument and must leverage something fundamental about the nature of the game.
-Games where we know which player has the strategy, but don't know what the strategy is, are called **ultra weakly solved games**.
-
-
-Consider, for example, the **Divisor Game** is a two-player game which has the following rules
-* Fix a starting integer $$N$$.
-* Each player takes turns choosing positive integer divisors of $$N$$.
-* You cannot choose a positive integer divisor of $$N$$ which divides any previously chosen divisors.
-* The player that is forced to choose $$N$$ loses.
-
-We can prove that the first player (*P1*) to move can force a win or a draw, even though *how* is still an open problem.
-Here's the argument:
-1. Suppose that the second player (*P2*) has a winning strategy, no matter what number *P1* starts out with.
-2. Then *P2* should have a winning strategy in particular when *P1* chooses $$1$$, in particular they would have a particular number $$k$$ to follow.
-3. However, instead of choosing $$1$$ as their first move, *P1* chooses $$k$$
-4. Now the board state is the same as it would have been if *P2* had gone first (choosing $$1$$) and *P1* is following the perfect second-player strategy.
-
-Thus it's not possible for *P2* to have a winning strategy, so *P1* must be able to force a win or a draw.
-Draws aren't possible, so *P1* can force a win!
-
-
