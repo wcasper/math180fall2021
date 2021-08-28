@@ -4,7 +4,7 @@ title: Solved Games
 permalink: /modules/tic-tac-toe/solved-games
 ---
 
-<p align="center"><img src="fig/data-star-trek.jpg" width="90%"/></p>
+<p align="center"><img src="fig/data-star-trek.jpg" width="60%"/></p>
 
 
 ### Perfect play
