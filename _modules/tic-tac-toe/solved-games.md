@@ -28,7 +28,8 @@ What about if you take over a game for a friend in the middle?  Games where a st
 
 ### Ultra weakly solved games
 
-Intriguingly, sometimes we can prove that a game *has* a strategy that will allow a specific player to win or draw (ie. the game has a solution), even if we don't know what it is.
+A fundamental question about any two-player game is which one of the players can force a win or tie.
+Intriguingly, sometimes we can determine which player *has* such a strategy, even if we don't know what it is.
 In a way, these are the most intriguing examples, since it involves a non-constructive existence argument and must leverage something fundamental about the nature of the game.
 
 Consider, for example, the **Divisor Game** is a two-player game which has the following rules
