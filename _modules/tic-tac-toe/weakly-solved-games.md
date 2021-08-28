@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ultra Weakly Solved Games
-permalink: /modules/tic-tac-toe/solved-games
+permalink: /modules/tic-tac-toe/weakly-solved-games
 ---
 
 <p align="center"><img src="fig/data-star-trek.jpg" width="60%"/></p>
