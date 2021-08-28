@@ -26,12 +26,24 @@ For example
 What about if you take over a game for a friend in the middle?  Games where a strategy for perfect play is known for *any* given board state are called **strongly solved**.
 *Tic-tac-toe* is strongly solved, for example.  So are *Guess Who?* and *Connect Four*.
 
+### Instructions
+
+Discuss in careful detail what the perfect strategy is for the first player (*P1*) in tic-tac-toe.  Make sure your strategy clearly describes
+* Where *P1* should play first
+* Where *P1* should play in response to every possible first move by *P2*
+* Where *P1* should play in response to every possible second move by *P2*
+* Where *P2* should play in response to every possible third move by *P2* 
+* ... and so on
+
+Record your strategy in the google document for your particular group below.
+
 ### Ultra weakly solved games
 
 A fundamental question about any two-player game is which one of the players can force a win or tie.
 Intriguingly, sometimes we can determine which player *has* such a strategy, even if we don't know what it is.
 In a way, these are the most intriguing examples, since it involves a non-constructive existence argument and must leverage something fundamental about the nature of the game.
 Games where we know which player has the strategy, but don't know what the strategy is, are called **ultra weakly solved games**.
+
 
 Consider, for example, the **Divisor Game** is a two-player game which has the following rules
 * Fix a starting integer $$N$$.
