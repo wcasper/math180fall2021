@@ -26,3 +26,5 @@ Consider, for example, the **Divisor Game** is a two-player game which has the f
 Make sure to switch off, giving everyone a chance to play.
 2. After everyone has played, talk about strategy.  Were there any particular strategies that worked very well?
 3. Decide with your group which player can force a win or a tie.  Is it player 1 or player 2?  Can you explain why?
+
+Add your discussion to your google doc.  Download it and save it as a pdf, before uploading it on Canvas.
