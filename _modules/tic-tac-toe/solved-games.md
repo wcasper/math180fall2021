@@ -31,6 +31,7 @@ What about if you take over a game for a friend in the middle?  Games where a st
 A fundamental question about any two-player game is which one of the players can force a win or tie.
 Intriguingly, sometimes we can determine which player *has* such a strategy, even if we don't know what it is.
 In a way, these are the most intriguing examples, since it involves a non-constructive existence argument and must leverage something fundamental about the nature of the game.
+Games where we know which player has the strategy, but don't know what the strategy is, are called **ultra weakly solved games**.
 
 Consider, for example, the **Divisor Game** is a two-player game which has the following rules
 * Fix a starting integer $$N$$.
