@@ -18,7 +18,7 @@ I know, I know, it's been a while!  Or maybe you've never played Battleship bef
 
 ### Playing Online
 
-We will be playing Battleship in pairs online using the website [BoomBoomBoat.com](BoomBoomBoat.com).  There you can play vs the computer, challenge a random stranger online, or face off against a friend in a private match.  Even better, you **do not need to register** in order to use the site!
+We will be playing Battleship in pairs online using the website [http://BoomBoomBoat.com](BoomBoomBoat.com).  There you can play vs the computer, challenge a random stranger online, or face off against a friend in a private match.  Even better, you **do not need to register** in order to use the site!
 
 To play with a friend:
 
