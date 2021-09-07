@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topic 01 -- Battleship
+title: Topic 02 -- Battleship
 ---
 
 * [Introduction (link)](/math180fall2021/modules/battleship/introduction)
