@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Battleship Commander Competition
-permalink: /modules/battleship/introduction
+permalink: /modules/battleship/competition
 ---
 
 <p align="center"><img src="fig/battleship.jpg" width="50%"/></p>
@@ -24,6 +24,10 @@ Submission deadline: midnight on September 11th
 Submissions are mandatory and will be graded.
 
 ### Example Strategy 1
+
+Shoot first at all of the locations on the edge, starting from the upper left corner and proceeding clockwise.
+Once all of those spaces are done, use a random number generator to choose a space to fire at that is different from the previous spaces.
+If the number of 
 Shoot first at the square A1.  At any point, to pick the next shot, just go to the right of the previous shot.  For example, if the last shot was B3, then the next shot will be B4.  If you can't go to the right, then instead make the next shot at the beginning of the next row.  For example, if the last shot was C10, then the next shot will be D10. 
 
 ### Example Strategy 2

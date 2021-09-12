@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Example Competition Strategies
-permalink: /modules/battleship/introduction
+permalink: /modules/battleship/old-strategies
 ---
 
 <h2 style="text-align: center;">Battleship Competition Results</h2>
