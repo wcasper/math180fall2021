@@ -4,7 +4,7 @@ title: Battleship Commander Competition
 permalink: /modules/battleship/competition
 ---
 
-<p align="center"><img src="fig/battleship.jpg" width="50%"/></p>
+<p align="center"><img src="fig/captainpic.jpg" width="50%"/></p>
 
 ## Do **you** have what it takes to be the Ultimate Battleship Commander?
 In this assignment, you and your group will compete against the other groups for **glory**, for **fame**, and for **incredible prizes**!
