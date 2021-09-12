@@ -4,7 +4,6 @@ title: Example Competition Strategies
 permalink: /modules/battleship/old-strategies
 ---
 
-<h2 style="text-align: center;">Battleship Competition Results</h2>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://csufullerton.instructure.com/courses/2927600/files/183043734/preview" alt="image of ships firing at each other" data-ally-user-updated-alt="image of ships firing at each other" data-api-endpoint="https://csufullerton.instructure.com/api/v1/courses/2927600/files/183043734" data-api-returntype="File" /></p>
 <h4 style="text-align: center;"><strong>Pure Random</strong></h4>
 <p>Firing blocks are selected randomly from the board.&nbsp; Whenever a hit occurs, follow up by sinking the ship (and any other ships incidentally identified in the process), and then go back to randomly selecting open spaces for the next shot until the enemy fleet is sunk.</p>
