@@ -23,16 +23,4 @@ Your group must agree on what you think will be the best strategy for sinking a 
 * Submission deadline: midnight on September 17th
 * Submissions are mandatory and will be graded.
 
-### Example Strategy 1
-
-Shoot first at all of the locations on the edge, starting from the upper left corner and proceeding clockwise.
-Once all of those spaces are done, use a random number generator to choose a space to fire at that is different from the previous spaces.
-If the number of 
-Shoot first at the square A1.  At any point, to pick the next shot, just go to the right of the previous shot.  For example, if the last shot was B3, then the next shot will be B4.  If you can't go to the right, then instead make the next shot at the beginning of the next row.  For example, if the last shot was C10, then the next shot will be D10. 
-
-### Example Strategy 2
-Choose the first shot randomly anywhere in the grid.  At any point, if the previous shot is a miss, then to pick the next shot simply randomly choose a square where you have not fired before.  However, if the previous shot was a hit then follow this protocol:
-
-if the last shot was the first shot on a new ship, then shoot next randomly at adjacent squares until you get a second hit.
-if the last shot was not the first shot on a ship, guess randomly one of the two adjacent squares in line with the previous two shots.  Continuing this part will eventually fill out and sink the ship
-if the last shot sank a ship, just randomly guess a square where you have not fired before.
+For some example strategies that have been proposed by students in the past, see [old strategies](old-strategies).
