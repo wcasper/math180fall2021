@@ -24,3 +24,5 @@ Your group must agree on what you think will be the best strategy for sinking a 
 * Submissions are mandatory and will be graded.
 
 For some example strategies that have been proposed by students in the past, see [old strategies](old-strategies).
+
+Here's a research paper a student wrote last year on Battleship [link to paper](battleship-tomography-quantum.pdf).
