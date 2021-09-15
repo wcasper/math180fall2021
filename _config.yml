@@ -53,8 +53,7 @@ header_pages:
  - about.md
  - syllabus.md
  - topics-list.md
- - homework-list.md
- - exams-list.md
+ - strategies.md
 
 # Build settings
 theme: minima
