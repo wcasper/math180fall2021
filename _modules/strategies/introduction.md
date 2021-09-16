@@ -17,10 +17,11 @@ If you follow the basic algorithms for differentiating producs of functions, thi
 
 In a **conceptual** question, we may still be asked to compute something, but the computation itself will rely on leveraging concepts, such as *Theorems* about how things behave, or clever problem solving *strategies*.
 Here's an interesting example.
-Let $$N = 1111\dots 1$$ be an integer with $$2020$$ digits, all of which are $$1$$.  Determine (without a calculator) the $$1011$$'th digit after the decimal point of $$\sqrt{N}$$.
+
+**Problem:**  Let $$N = 1111\dots 1$$ be an integer with $$2020$$ digits, all of which are $$1$$.  Determine (without a calculator) the $$1011$$'th digit after the decimal point of $$\sqrt{N}$$.
 To determine the solution of a problem like this, we will need to use various *concepts*, such as potentially rewriting $$N$$ in an illuminating way and applying [Binomial Series](https://en.wikipedia.org/wiki/Binomial_series).  (If you are up for a challenge, try to prove that the answer is $$1$$.)
 
-Another rather famous problem dating back to 1650 was to calculate the value of the infinite sum
+**Problem:** Another rather famous problem dating back to 1650 was to calculate the value of the infinite sum
 
 $$\sum_{n=1}^\infty \frac{1}{n^2} = 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16} + \frac{1}{25} + \dots.$$
 
