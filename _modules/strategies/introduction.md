@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Strategies of Problem Solving
-permalink: /modules/miracle/strategies
+permalink: /modules/strategies/introduction
 ---
 
 <p align="center"><img src="fig/miracle.jpeg" width="50%"/></p>
