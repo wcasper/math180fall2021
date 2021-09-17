@@ -23,7 +23,7 @@ Instead, we should *systematically organize* the possibilities, in order to make
 Our idea is to list them in reverse alphabetical order.
 
 $$
-\begin{array}[l]
+\begin{align*}
 (7)         \\ 
 (6,1)       \\ 
 (5,2)       \\ 
@@ -39,7 +39,7 @@ $$
 (2,2,1,1,1) \\
 (2,1,1,1,1,1) \\
 (1,1,1,1,1,1,1)
-\end{array}
+\end{align*}
 $$
 
 
