@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rewriting expressions
-permalink: /modules/strategies/strat-rewrite
+title: Reduce the problem
+permalink: /modules/strategies/strat-reduce
 ---
 
 Many times a problem can be solved by reducing it to a problem that we already know how to solve.
