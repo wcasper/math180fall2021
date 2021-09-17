@@ -21,7 +21,7 @@ Since the class was full of very young people, their teacher expected this to ta
 
 The key idea Gauss used was to write the sum he was trying to compute both forwards *and* backwards.
 
-$$\begin{array}{ccccccc}
+$$\begin{array}{lllllll}
 1   & +2  & +3  & +4  & +5  & +\dots & + 100\\
 100 & +99 & +98 & +97 & +96 & +\dots & + 1
 \end{array}$$
