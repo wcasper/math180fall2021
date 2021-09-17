@@ -20,6 +20,7 @@ $$1 + 2 + \dots + 100.$$
 Since the class was full of very young people, their teacher expected this to take a fair amount of time.  However, Gauss figured out almost instantly that thw answer was $$5050$$!  A very impressive feat, especially for someone so young.
 
 The key idea Gauss used was to write the sum he was trying to compute both forwards *and* backwards.
+
 $$\begin{array}{ccccccc}
 1   & +2  & +3  & +4  & +5  & +\dots & + 100\\
 100 & +99 & +98 & +97 & +96 & +\dots & + 1
