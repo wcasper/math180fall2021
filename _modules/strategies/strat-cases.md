@@ -56,7 +56,6 @@ For example, you and Mary could cross (taking two minutes), then you can return 
 To find the fastest strategy we can list all the possible combinations of crossings.  Of course, since everyone can cross with no more than two return trips, it makes sense that the fastest time will use two return trips.  Also, since Kelly and Ted take so long to cross, if they have to cross more than once the total elapsed time will be more than $$16$$ minutes.  Finally, the optimal time will occur if whoever returns with the flashlight is whoever is fastest person to have already crossed.
 Labelling you, Mary, Ted, and Kelly as A,B,C, and D respectively, the sensible possibilities are
 
-<center>
 | Sequence                                     | Time (minutes) |
 |----------------------------------------------|----------------|
 | A+B go, A returns, A+C go, A returns, A+D go | 16             |
@@ -68,7 +67,6 @@ Labelling you, Mary, Ted, and Kelly as A,B,C, and D respectively, the sensible p
 | A+D go, A returns, A+C go, A returns, A+D go | 16             |
 | A+D go, A returns, A+B go, A returns, A+C go | 16             |
 | A+D go, A returns, B+C go, B returns, A+B go | 18             |
-</center>
 
 As we see from all of the above cases, we can survive!  The fastest strategy will take only $$15$$ minutes.
 
