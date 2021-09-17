@@ -27,7 +27,6 @@ $$\sum_{n=1}^\infty \frac{1}{n^2} = 1 + \frac{1}{4} + \frac{1}{9} + \frac{1}{16}
 
 This problem remained unsolved for almost a hundred years, until Euler solved it in 1735 by inventing the fundamentally new concept of the *Weierstrass factorization* of $$\sin(x)$$.
 
-
 In this class, one of our goals is to nuture our inherent problem solving skills by arming ourselves with some useful **strategies of problem solving**.
 While we can't guarantee you that they will help you solve a hundred-year-old problem any time soon, they should help you to be mathematically stronger moving forward in all of your future mathematical endeavors.
 
