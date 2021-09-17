@@ -23,7 +23,7 @@ Instead, we should *systematically organize* the possibilities, in order to make
 Our idea is to list them in reverse alphabetical order.
 
 $$
-\begin{array}[ll]
+\begin{array}[l|l]
 (7)         & 
 (3,3,1)     \\
 (6,1)       & 
