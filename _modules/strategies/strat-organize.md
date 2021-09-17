@@ -23,23 +23,22 @@ Instead, we should *systematically organize* the possibilities, in order to make
 Our idea is to list them in reverse alphabetical order.
 
 $$
-\begin{array}[l|l]
-(7)         & 
+\begin{array}[l]
+(7)         \\ 
+(6,1)       \\ 
+(5,2)       \\ 
+(5,1,1)     \\ 
+(4,3)       \\
+(4,2,1)     \\
+(4,1,1,1)   \\
 (3,3,1)     \\
-(6,1)       & 
 (3,2,2)     \\
-(5,2)       & 
 (3,2,1,1)   \\
-(5,1,1)     & 
 (3,1,1,1,1) \\
-(4,3)       &
 (2,2,2,1  ) \\
-(4,2,1)     &
 (2,2,1,1,1) \\
-(4,1,1,1)   &
 (2,1,1,1,1,1) \\
-&
-(1,1,1,1,1,1,1) \\
+(1,1,1,1,1,1,1)
 \end{array}
 $$
 
