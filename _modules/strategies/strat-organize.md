@@ -23,7 +23,7 @@ Instead, we should *systematically organize* the possibilities, in order to make
 Our idea is to list them in reverse alphabetical order.
 
 $$
-\begin{tabular}[ll]
+\begin{array}[ll]
 (7)         & 
 (3,3,1)     \\
 (6,1)       & 
@@ -40,7 +40,7 @@ $$
 (2,1,1,1,1,1) \\
 &
 (1,1,1,1,1,1,1) \\
-\end{tabular}
+\end{array}
 $$
 
 
