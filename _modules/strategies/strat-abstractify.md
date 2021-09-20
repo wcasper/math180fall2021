@@ -25,6 +25,8 @@ Is there a way to cross every single bridge in Konigsberg without crossing any b
 
 In order to analyze this problem, Euler visualized this problem as a graph theory problem.  He let the various bodies of land be represented by vertices, where the bridges are connected by edges.  This produces a graph consisting of four vertices and seven edges as pictured below.
 
+<p align="center"><img src="fig/konigsberg_graph.png" width="50%"/></p>
+
 Each vertex (the blue circles) represents one of the land masses in the picture above.  The edges each correspond to a bridge.  For this reason, this particular graph is often called theÂ Konigsberg graph.  The problem then is to find a path on the Konigsberg graph which crosses every single edge once and only once.  Nowadays, paths on graphs which pass through every edge exactly one time are called Eulerian paths.
 
 **Solving the Konigsberg Bridge Problem**
