@@ -50,6 +50,7 @@ Think about, for example, trying to find the length of some side of a triangle. 
 
 * [systematically organize information](strat-organize)
 * [rewrite the problem](strat-rewrite)
+* [abstractify to essential information](strat-abstractify)
 * [reduce the problem to a previously solved problem](strat-reduce)
 * [break the problem up into cases](strat-cases)
 * [process of elimination](strat-elimination)
