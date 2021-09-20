@@ -60,5 +60,6 @@ Think about, for example, trying to find the length of some side of a triangle. 
 * [algebraify](strat-algebraify)
 * [use toy examples to find patterns](strat-toy)
 * [generalize the problem](strat-generalize)
+* [generalize the problem](strat-general)
 
 

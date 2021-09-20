@@ -16,4 +16,5 @@ title: Topic 00 -- Problem Solving Strategies
 * [algebraify (link)](/math180fall2021/modules/strategies/strat-algebraify)
 * [use toy examples to find patterns (link)](/math180fall2021/modules/strategies/strat-toy)
 * [generalize the problem (link)](/math180fall2021/modules/strategies/strat-generalize)
+* [generalize the problem (link)](/math180fall2021/modules/strategies/strat-general)
 
