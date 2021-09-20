@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Guess and check
-permalink: /modules/strategies/strat-guess
+title: Generalize the problem
+permalink: /modules/strategies/strat-generalize
 ---
 
 One broad theme mathematically moving forward through your classes is that many times a problem becomes simpler when we *generalize* it.
