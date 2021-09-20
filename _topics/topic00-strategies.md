@@ -6,6 +6,7 @@ title: Topic 00 -- Problem Solving Strategies
 * [Introduction (link)](/math180fall2021/modules/strategies/introduction)
 * [systematically organize information (link)](/math180fall2021/modules/strategies/strat-organize)
 * [rewrite the problem (link)](/math180fall2021/modules/strategies/strat-rewrite)
+* [abstractify to essential information (link)](/math180fall2021/modules/strategies/strat-abstractify)
 * [reduce the problem to a previously solved problem (link)](/math180fall2021/modules/strategies/strat-reduce)
 * [break the problem up into cases (link)](/math180fall2021/modules/strategies/strat-cases)
 * [process of elimination (link)](/math180fall2021/modules/strategies/strat-elimination)
