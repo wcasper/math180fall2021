@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Guess and check
-permalink: /modules/strategies/strat-guess
+title: Toy Examples
+permalink: /modules/strategies/strat-toy
 ---
 
 One really nice way to approach problems is to consider smaller or "toy" versions of a problem, in order to try to establish a pattern that we can apply to the general situation.
