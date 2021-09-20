@@ -25,12 +25,12 @@ We can recognize this as the *derivative* of the geometric sum
 
 $$1 + r + r^2 + r^3 + r^4 + r^5 + \dots + r^{2020}$$
 
-we know that this sum is $$\frac{1-r^{2021}}\frac{1-r}$$, so that
+we know that this sum is $$\frac{1-r^{2021}}{1-r}$$, so that
 
 $$
 \begin{align*}
 1 + 2r + 3r^2 + 4r^3 + 5r^4 + \dots + 2020r^{2020-1}
-& = \frac{d}{dr}\left(\frac{1-r^{2021}}\frac{1-r}\right)\\
+& = \frac{d}{dr}\left(\frac{1-r^{2021}}{1-r}\right)\\
 & = \frac{2020r^{2021}-2021r^{2020}+1}{(1-r)^2}
 \end{align*}$$
 
