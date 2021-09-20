@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Draw a picture
+title: Algebraify
 permalink: /modules/strategies/strat-algebraify
 ---
 
