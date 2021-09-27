@@ -4,7 +4,7 @@ title: Microrobots Discussion
 permalink: /modules/microrobots/discussion
 ---
 
-<p align="center"><img src="fig/robot-cartoon.jpeg" width="50%"/></p>
+<p align="center"><img src="fig/robot-cartoon.jpeg" width="20%"/></p>
 
 Please create a discussion post answering the following questions.  Also number your responses so that it's clear which question you are answering.  After the assignment is due you will be tasked with giving feedback to two other students responses.  Note that you will not be able to review other students' responses until after you post.
 
