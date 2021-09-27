@@ -33,5 +33,12 @@ For the Micro Robots board you created in Problem 2, create a drawing of the ass
 
 ## Problem 4
 
-Create a fixed Micro Robots board (ignoring shuffling or rotation) where the robot can move from any position to any other position in three or less moves.  Explain in detail why you know that the robot is able to do this in your example.
+Create a fixed Micro Robots board (ignoring shuffling or rotation) where the robot can move from any position to any other position in two or less moves.  Explain in detail why you know that the robot is able to do this in your example.
+
+## Problem 5
+
+Suppose somebody hands you four $$3\times 3$$ cards which form a Micro Robots board.
+1. Determine the total number of possible ways that we can arrange the cards into a board.  Don't forget about rotations!
+2. Give an example of two different arrangements of the board that end up giving you the *same* graph.
+2. Determine how many of the different arrangements that you found in the previous part result in a *distinct* graphs.
 
