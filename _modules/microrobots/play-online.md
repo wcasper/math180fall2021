@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Microrobots Introduction
-permalink: /modules/microrobots/introduction
+title: Playing Microrobots Online
+permalink: /modules/microrobots/play-online
 ---
 
 <p align="center"><img src="fig/microrobots-gameboard.jpeg" width="50%"/></p>
