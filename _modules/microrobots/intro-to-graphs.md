@@ -15,7 +15,7 @@ permalink: /modules/microrobots/intro-to-graphs
 <p style="text-align: left;">In order to analyze this problem, Euler visualized this problem as a graph theory problem.&nbsp; He let the various bodies of land be represented by vertices, where the bridges are connected by edges.&nbsp; This produces a graph consisting of four vertices and seven edges as pictured below.</p>
 
 
-<p align="center"><img src="fig/konigsberg-graph.jpg" width="50%"/></p>
+<p align="center"><img src="fig/konigsberg-graph.png" width="50%"/></p>
 
 <p style="text-align: left;">Each vertex (the blue circles) represents one of the land masses in the picture above.&nbsp; The edges each correspond to a bridge.&nbsp; For this reason, this particular graph is often called the <strong>Konigsberg graph</strong>.&nbsp; The problem then is to find a path on the Konigsberg graph which crosses every single edge once and only once.&nbsp; Nowadays, paths on graphs which pass through every edge exactly one time are called <strong>Eulerian paths</strong>.</p>
 <h2 style="text-align: left;">Solving the Konigsberg Bridge Problem</h2>
@@ -23,7 +23,7 @@ permalink: /modules/microrobots/intro-to-graphs
 <h2>Using Graphs in Micro Robots</h2>
 <p>Graphs provide us with a natural way to study the game Micro Robots.&nbsp; Think for example about the following Micro Robots board.</p>
 
-<p align="center"><img src="fig/tutorial-board.jpg" width="50%"/></p>
+<p align="center"><img src="fig/tutorial-board.png" width="50%"/></p>
 
 <p>Let's try to answer the following question.</p>
 <p style="text-align: center;">Is there a way for the robot to move from the<span style="color: #b96ad9;"> <strong>Violet 4</strong></span> square to the <span style="color: #f1c40f;"><strong>Yellow 3</strong></span> square while passing through <strong><span style="color: #f1c40f;">Yellow 6</span></strong>?</p>
@@ -35,7 +35,7 @@ permalink: /modules/microrobots/intro-to-graphs
 </ul>
 <p>For the game board above, this produces the following graph.</p>
 
-<p align="center"><img src="fig/tutorial-graph.jpg" width="50%"/></p>
+<p align="center"><img src="fig/tutorial-graph.png" width="50%"/></p>
 
 <p style="text-align: left;">Here, we have labelled the vertices according to the colored boxes that they correspond to in the board.&nbsp; This graph version of the board is extremely useful, since it allows me to answer some otherwise complicated questions very simply.&nbsp; For example, from this view we see we can move in the following way to go from the <span style="color: #b96ad9;"><strong>Violet 4</strong></span> square to the <span style="color: #f1c40f;"><strong>Yellow 3</strong></span> square while passing through <span style="color: #f1c40f;"><strong>Yellow 6</strong></span> in between:</p>
 <p style="text-align: center;"><span style="color: #b96ad9;"><strong>Violet 4</strong></span> <img class="equation_image" title="\rightarrow" src="https://csufullerton.instructure.com/equation_images/%255Crightarrow" alt="LaTeX: \rightarrow" data-equation-content="\rightarrow" />&nbsp;<span style="color: #b96ad9;"><strong>Violet 3</strong></span> <img class="equation_image" title="\rightarrow" src="https://csufullerton.instructure.com/equation_images/%255Crightarrow" alt="LaTeX: \rightarrow" data-equation-content="\rightarrow" /><span style="color: #b96ad9;"><strong>Violet 2</strong></span><img class="equation_image" title="\rightarrow" src="https://csufullerton.instructure.com/equation_images/%255Crightarrow" alt="LaTeX: \rightarrow" data-equation-content="\rightarrow" /> <span style="color: #3598db;"><strong>Blue 2</strong></span> <img class="equation_image" title="\rightarrow" src="https://csufullerton.instructure.com/equation_images/%255Crightarrow" alt="LaTeX: \rightarrow" data-equation-content="\rightarrow" /><span style="color: #e03e2d;"><strong>Red 2</strong></span> <img class="equation_image" title="\rightarrow" src="https://csufullerton.instructure.com/equation_images/%255Crightarrow" alt="LaTeX: \rightarrow" data-equation-content="\rightarrow" /><span style="color: #f1c40f;"><strong>Yellow 2</strong></span> <img class="equation_image" title="\rightarrow" src="https://csufullerton.instructure.com/equation_images/%255Crightarrow" alt="LaTeX: \rightarrow" data-equation-content="\rightarrow" /><span style="color: #f1c40f;"><strong>Yellow 6</strong></span> <img class="equation_image" title="\rightarrow" src="https://csufullerton.instructure.com/equation_images/%255Crightarrow" alt="LaTeX: \rightarrow" data-equation-content="\rightarrow" /></p>
