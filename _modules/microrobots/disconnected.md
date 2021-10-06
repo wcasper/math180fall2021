@@ -4,6 +4,7 @@ title: Disconnected Graphs and Microrobots Boards
 permalink: /modules/microrobots/disconnected
 ---
 
+<p align="center"><img src="fig/disconnected-graph.png" width="50%"/></p>
 
 Recall that a [graph](intro-to-graphs) is a collection of points called *vertices* and curves called *edges* which connect different vertices.
 A graph is called **disconnected** if you can draw it as two or more smaller graphs, where thre are no edges joining the subgraphs together.
