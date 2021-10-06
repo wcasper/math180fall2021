@@ -8,5 +8,6 @@ title: Topic 03 -- Microrobots
 * [Discussion (link)](/math180fall2021/modules/microrobots/discussion)
 * [Intro to Graphs (link)](/math180fall2021/modules/microrobots/intro-to-graphs)
 * [Homework (link)](/math180fall2021/modules/microrobots/homework)
+* [Disconnected Graphs and Microrobots Boards (link)](/math180fall2021/modules/microrobots/disconnected)
 
 
