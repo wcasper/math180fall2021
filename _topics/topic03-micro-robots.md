@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Topic 03 -- Microrobots
+title: Topic 03 -- Micro Robots
 ---
 
 * [Introduction (link)](/math180fall2021/modules/microrobots/introduction)
