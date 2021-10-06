@@ -28,17 +28,17 @@ Imagine you are building a $$2\times 2$$ Micro Robots board, which uses just two
 
 ## Problem 2
 
-Show that there is a $$3\times 3$$ Micro Robots board which uses the colors red, blue, and yellow and the numbers $$1-3$$ whose graph is totally disconnected.
+Show that there is a $$3\times 3$$ Micro Robots board which uses the colors red, blue, and yellow and the numbers $$1$$-$$3$$ whose graph is totally disconnected.
 Did you have a particular strategy to build this graph?
 
 ## Problem 3
 
-Show that there is a $$5\times 5$$ Micro Robots board which uses five different colors (pick what colors you like) and the numbers $$1-5$$ whose graph is totally disconnected.
+Show that there is a $$5\times 5$$ Micro Robots board which uses five different colors (pick what colors you like) and the numbers $$1$$-$$5$$ whose graph is totally disconnected.
 Did you have a particular strategy to build this graph?
 
 ## Problem 4
 
-Is there a $$4\times 4$$ Micro Robots board which uses four different colors (pick what colors you like) and the numbers $$1-4$$ whose graph is totally disconnected?
+Is there a $$4\times 4$$ Micro Robots board which uses four different colors (pick what colors you like) and the numbers $$1$$-$$4$$ whose graph is totally disconnected?
 If so, give an example.  If not, then explain why not.
 
 ## Problem 5 (Challenge)
