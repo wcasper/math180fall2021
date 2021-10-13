@@ -10,7 +10,7 @@ permalink: /modules/shobu/play-online
 We aren't able to play micro-robots in person together due to the pandemic, so we'll have to improvise.  Use one of the links below to access an online implementation of Micro Robots, where you can play online!
 
 ### Playing Online 
-* [Video tutorial on playing online](https://www.youtube.com/watch?v=g9jXe6CSEkU)
+* [Video tutorial on playing online](https://youtu.be/oTNj8sfnoD4)
 
 ### List of Game Room Links
 Below is a list of links where we can go to play Shobu.  Use the link for your particular group!

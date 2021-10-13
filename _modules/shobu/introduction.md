@@ -15,5 +15,5 @@ permalink: /modules/shobu/introduction
 * If a piece is pushed off of the gameboard, it is removed from the game.  The first player to push all of their opponents pieces off of *one* of the gameboards wins.
 
 ## How to Play Online
-* [Video tutorial for playing online](https://www.youtube.com/watch?v=g9jXe6CSEkU)
+* [Video tutorial for playing online](https://youtu.be/oTNj8sfnoD4)
 
