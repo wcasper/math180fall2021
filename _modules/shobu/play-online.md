@@ -15,11 +15,11 @@ We aren't able to play micro-robots in person together due to the pandemic, so w
 ### List of Game Room Links
 Below is a list of links where we can go to play Shobu.  Use the link for your particular group!
 
-* Room 1: [https://playingcards.io/teacjk](https://playingcards.io/teacjk) 
-* Room 2: [https://playingcards.io/nzpf2e](https://playingcards.io/nzpf2e) 
-* Room 3: [https://playingcards.io/c8qrcz](https://playingcards.io/c8qrcz) 
-* Room 4: [https://playingcards.io/qttrst](https://playingcards.io/qttrst) 
-* Room 5: [https://playingcards.io/hmras6](https://playingcards.io/hmras6)
-* Room 6: [https://playingcards.io/c7gzcy](https://playingcards.io/c7gzcy)
-* Room 7: [https://playingcards.io/7ks7wc](https://playingcards.io/7ks7wc)
+* Room 1: [https://playingcards.io/2tcyf4](https://playingcards.io/2tcyf4) 
+* Room 2: [https://playingcards.io/2jpug6](https://playingcards.io/2jpug6) 
+* Room 3: [https://playingcards.io/393qav](https://playingcards.io/393qav) 
+* Room 4: [https://playingcards.io/bbjbna](https://playingcards.io/bbjbna) 
+* Room 5: [https://playingcards.io/7qb7yp](https://playingcards.io/7qb7yp)
+* Room 6: [https://playingcards.io/339amq](https://playingcards.io/339amq)
+* Room 7: [https://playingcards.io/m8wcdm](https://playingcards.io/m8wcdm)
 
