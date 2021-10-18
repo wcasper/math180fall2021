@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shobu Discussion
-permalink: /modules/microrobots/discussion
+permalink: /modules/shobu/discussion
 ---
 
 <p align="center"><img src="fig/robot-cartoon.jpeg" width="20%"/></p>
