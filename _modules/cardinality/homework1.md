@@ -56,9 +56,9 @@ For a partition $$(a_1,a_2,\dots,a_k)$$, the number of boxes in the $$j$$'th row
 
 Use Young diagrams to establish a bijection between the sets
 
-$$A = \{$x$ | \text{$x$ is a partition of $40$ of length $20$}\}$$
+$$A = \{x | \text{$x$ is a partition of $40$ of length $20$}\}$$
 
-$$B = \{$x$ | \text{$x$ is a partition of $40$ whose first entry is $20$}\}$$
+$$B = \{x | \text{$x$ is a partition of $40$ whose first entry is $20$}\}$$
 
 This shows that $$A$$ and $$B$$ are the same size, even though we don't know what that size actually is!
 
