@@ -41,11 +41,11 @@ For a partition $$(a_1,a_2,\dots,a_k)$$, the number of boxes in the $$j$$'th row
 
 **Example:** The Young diagram corresponding to the partition $$(5,4,1)$$ of $$10$$ is
 
-<p align="center"><img src="fig/young-diagram.png" width="50%"/></p>
+<p align="center"><img src="fig/young-diagram.png" width="25%"/></p>
 
 **Example:** The Young diagram corresponding to the partition $$(5,3,1,1)$$ of $$10$$ is 
 
-<p align="center"><img src="fig/young-diagram-2.jpg" width="50%"/></p>
+<p align="center"><img src="fig/young-diagram-2.jpg" width="25%"/></p>
 
 * (A) Draw the Young diagrams for all of the partitions of $$4$$.
 * (B) Draw the Young diagrams for all the partitions of $$25$$ whose first entry is $$20$$.
