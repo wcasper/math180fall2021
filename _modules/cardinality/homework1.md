@@ -27,7 +27,7 @@ Fill in the missing values in the following table.  Make sure to carefully show 
 
 ### Problem 2
 
-Let $$A$$ be the set of partitions of $$2021$$ and let $$B$$ be the set of combinations of $$2021$$.  Which set has larger cardinality?  Carefully explain.
+Let $$A$$ be the set of partitions of $$2021$$ and let $$B$$ be the set of composition of $$2021$$.  Which set has larger cardinality?  Carefully explain.
 
 ### Problem 3
 
