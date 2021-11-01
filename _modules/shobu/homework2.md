@@ -17,3 +17,15 @@ What you must do is create a detailed strategy for what the Shobot should do for
 Once your algorithms are finished and submitted, they will be coded in Python by your instructor and tested against one another in what we are calling **The Ultimate Shobot Gauntlet of Champions** (copyright, trademark, patent pending).  The teams whose algorithms win the most games will win a **real world prize**!
 
 
+### Examples of simple strategies
+The following are examples of strategies which are very simple and thoroughly described, but probably not the best.  They are just here to give your group a starting point.
+* **Strategy 1: (Random)** Pick each move entirely randomly from the available legal moves.
+* **Strategy 2: (All-out attack)**
+- If there is a move that can push an opponents piece off of any board, then do that for your move.  If there are multiple such opportunities, push the one on the board where the opponent has the least stones.  If there are still multiple opportunities, just choose the one of the options at random.
+- If there are no available ways to push an opponents stone off of a board, then just randomly make any available legal move.
+
+* **Strategy 3: (The Pacifist)**
+- If there is a piece of yours that is threateded to be pushed off of the board, then save it if there is a move to do so.  If there are multiple such saves available, then randomly pick one.
+- If no pieces are threatened, then randomly move one of your pieces such that it goes to a spot where it is still safe.  If this is not possible, just choose and perform a random legal move.
+
+
