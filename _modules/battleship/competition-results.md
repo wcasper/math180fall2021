@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Battleship Commander Competition After-Action Report
+title: Battleship Commander Competition Results
 permalink: /modules/battleship/competition-results
 ---
 
 <p align="center"><img src="fig/captainpic.jpg" width="50%"/></p>
 
-## The battle was long and hard fought, and the strategies bold.
+## After-action report
+The battle was long and hard fought, and the strategies bold.
 
 | Group | Algorithm | Average Shots to Sink |
 | ----- | --------- | --------------------- |
