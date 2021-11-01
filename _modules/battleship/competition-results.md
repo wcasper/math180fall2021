@@ -19,7 +19,7 @@ The battle was long and hard fought, and the strategies bold.
 |   5   | Iterated Guess Search | 57.3763 | 
 |   6   | Polygon earch | 57.3138 | 
 |   7   | X Factor Search | 53.782 | 
-|   8   | Swirl Search | 53.1018  | 
+|   8   | Swirl Search | **53.1018**  | 
 
 Congratulations to **Monika Chhay**, **Isaias Gallardo-Anell**, and **Vicky Li** for their impressive victory!
 You may pick up your spoils of war in your Professor's office (MH 160-A) later this week.  Send me an email with the time and day you can stop by.
