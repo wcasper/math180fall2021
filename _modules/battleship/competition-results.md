@@ -8,17 +8,6 @@ permalink: /modules/battleship/competition-results
 
 ## The battle was long and hard fought, and the strategies bold.
 
-| Group | Algorithm | Average Shots to Sink |
-| ----- | --------- | --------------------- |
-|       |  Random Guess | 59.5941 |
-|   1   | Counter-Clockwise Search | 59.9771 |
-|   2   | Dark Knight Search | 59.5636 |
-|   3   | Checkered Dart Board Search | 60.3797 | 
-|   4   | Spider Web Search | 57.5274 | 
-|   5   | Iterated Guess Search | 57.3763 | 
-|   6   | Polygon earch | 57.3138 | 
-|   7   | X Factor Search | 53.782 | 
-|   8   | Swirl Search | 53.1018  | 
 
 Congratulations to **Monika Chhay**, **Isaias Gallardo-Anell**, and **Vicky Li** for their impressive victory!
 You may pick up your spoils of war in your Professor's office (MH 160-A) later this week.  Send me an email with the time and day you can stop by.
