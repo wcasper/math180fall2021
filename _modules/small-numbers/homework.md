@@ -57,11 +57,11 @@ Note that for the stack to be stable, any log on top must be touching two logs b
 
 A very smart math dude you know says that he thinks he sees a way to get the terms in general.  He says that they come from the **Taylor series** expansion of the function
 
-$$f(x) = \frac{1}{(1-x)}\frac{1}{(1-x^3)}\frac{1}{(1-x^4)}\frac{1}{(1-x^5)^2}\frac{1}{(1-x^6)^3}\frac{1}{(1-x^7)^5}\frac{1}{(1-x^8)^8}\frac{1}{(1-x^9)^{13}}$$
+$$f(x) = \frac{1}{(1-x)}\frac{1}{(1-x^3)}\frac{1}{(1-x^4)}\frac{1}{(1-x^5)^2}\frac{1}{(1-x^6)^3}\frac{1}{(1-x^7)^5}\frac{1}{(1-x^8)^8}\frac{1}{(1-x^9)^{13}}\frac{1}{(1-x^{10})^{21}}$$
 
 He notes that the exponents in the function $$f(x)$$ that he observes are satisfying a very famous sequence called the **Fibbonacci sequence**.  Wow!
 
-Use [wolframalpha.com](http://wolframalpha.com) or any other sofware you prefer to calculate the Taylor series of $$f(x)$$.  Alternatively, you can use the following [link to series](https://www.wolframalpha.com/input/?i=%281-x%29%5E%28-1%29%281-x%5E3%29%5E%28-1%29*%281-x%5E4%29%5E%28-1%29*%281-x%5E5%29%5E%28-2%29*%281-x%5E6%29%5E%28-3%29*%281-x%5E7%29%5E%28-5%29*%281-x%5E8%29%5E%28-8%29*%281-x%5E9%29%5E%28-13%29+expansion).
+Use [wolframalpha.com](http://wolframalpha.com) or any other sofware you prefer to calculate the Taylor series of $$f(x)$$.  Alternatively, you can use the following [link to series](https://www.wolframalpha.com/input/?i=%281-x%29%5E%28-1%29%281-x%5E3%29%5E%28-1%29*%281-x%5E4%29%5E%28-1%29*%281-x%5E5%29%5E%28-2%29*%281-x%5E6%29%5E%28-3%29*%281-x%5E7%29%5E%28-5%29*%281-x%5E8%29%5E%28-8%29*%281-x%5E9%29%5E%28-13%29*%281-x%5E10%29%5E%28-21%29+expansion)
 
 Check that the coefficents in the expansion are exactly the numbers that you found in the table.
 
