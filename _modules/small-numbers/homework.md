@@ -49,11 +49,21 @@ Note that for the stack to be stable, any log on top must be touching two logs b
 |       4        |        3                |
 |       5        |                         |
 |       6        |                         |
-|       7        |       13                |
+|       7        |       15                |
 |       8        |                         |
 |       9        |                         |
 
-* **Question 2B:**  Find and describe any sort of pattern you can for the number of stacks versus the number of logs in the table above.
+* **Question 2B:**  
+
+A very smart math dude you know says that he thinks he sees a way to get the terms in general.  He says that they come from the **Taylor series** expansion of the function
+
+$$f(x) = \frac{1}{(1-x)}\frac{1}{(1-x^3)}\frac{1}{(1-x^4)}\frac{1}{(1-x^5)^2}\frac{1}{(1-x^6)^3}\frac{1}{(1-x^7)^5}\frac{1}{(1-x^8)^8}\frac{1}{(1-x^9)^{13}}$$
+
+He notes that the exponents in the function $$f(x)$$ that he observes are satisfying a very famous sequence called the **Fibbonacci sequence**.  Wow!
+
+Use [wolframalpha.com](http://wolframalpha.com) or any other sofware you prefer to calculate the Taylor series of $$f(x)$$.  Alternatively, you can use the following [link to series](https://www.wolframalpha.com/input/?i=%281-x%29%5E%28-1%29%281-x%5E3%29%5E%28-1%29*%281-x%5E4%29%5E%28-1%29*%281-x%5E5%29%5E%28-2%29*%281-x%5E6%29%5E%28-3%29*%281-x%5E7%29%5E%28-5%29*%281-x%5E8%29%5E%28-8%29*%281-x%5E9%29%5E%28-13%29+expansion).
+
+Check that the coefficents in the expansion are exactly the numbers that you found in the table.
 
 * **Question 2C:**
 Continue to check the pattern for $$10$$, $$11$$ and $$12$$ logs.  Does it still hold?
@@ -67,8 +77,8 @@ A friend recently took a trip to MusÃ©e historique de Strasbourg (Links to an 
 
 $$1^2 + 2^2 + 3^2 + (n-1)^2 + n^2 = \frac{n(n+1)(2n+1)}{6}$$
 
-* **Question 2A:**  Check that this formula holds for $$n=3$$, $$n=4$$, $$n=5$$, and $$n=6$$.
+* **Question 3A:**  Check that this formula holds for $$n=3$$, $$n=4$$, $$n=5$$, and $$n=6$$.
 
-* **Question 2B:**  Check a higher value of $$n$$.  Does it match your guess? If so, try to decide why it might be true, and convince me that it will be true for any value of $$n$$.
+* **Question 3B:**  Check a higher value of $$n$$.  Does it match your guess? If so, try to decide why it might be true, and convince me that it will be true for any value of $$n$$.
 
 
