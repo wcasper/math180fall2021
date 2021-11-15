@@ -57,7 +57,7 @@ Note that for the stack to be stable, any log on top must be touching two logs b
 
 A very smart math dude you know says that he thinks he sees a way to get the terms in general.  He says that they come from the **Taylor series** expansion of the function
 
-$$f(x) = \frac{1}{(1-x)}\frac{1}{(1-x^3)}\frac{1}{(1-x^4)}\frac{1}{(1-x^5)^2}\frac{1}{(1-x^6)^3}\frac{1}{(1-x^7)^5}\frac{1}{(1-x^8)^8}\frac{1}{(1-x^9)^{13}}\frac{1}{(1-x^{10})^{21}}$$
+$$f(x) = \frac{1}{(1-x)(1-x^3)(1-x^4)(1-x^5)^2(1-x^6)^3(1-x^7)^5(1-x^8)^8(1-x^9)^{13}(1-x^{10})^{21}}$$
 
 He notes that the exponents in the function $$f(x)$$ that he observes are satisfying a very famous sequence called the **Fibbonacci sequence**.  Wow!
 
