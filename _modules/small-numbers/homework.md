@@ -41,17 +41,17 @@ Note that for the stack to be stable, any log on top must be touching two logs b
 
 * **Question 2A:**  Fill out the following table listing the number of ways to stack $$n$$ logs of wood.
 
-| number of logs | number of stacks |
-| -------------- | ---------------- |
-|       1        |        1         |
-|       2        |        1         |
-|       3        |        2         |
-|       4        |        3         |
-|       5        |                  |
-|       6        |                  |
-|       7        |       13         |
-|       8        |                  |
-|       9        |                  |
+| number of logs | number of ways to stack |
+| -------------- | ----------------------- |
+|       1        |        1                |
+|       2        |        1                |
+|       3        |        2                |
+|       4        |        3                |
+|       5        |                         |
+|       6        |                         |
+|       7        |       13                |
+|       8        |                         |
+|       9        |                         |
 
 * **Question 2B:**  Find and describe any sort of pattern you can for the number of stacks versus the number of logs in the table above.
 
