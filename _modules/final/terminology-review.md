@@ -33,6 +33,6 @@ permalink: /modules/final/terminology-review
 * $$x\in A$$ means that $$x$$ is an element of $$A$$
 * $$A\subseteq B$$ means that $$A$$ is a subset of $$B$$
 * $$f: A\rightarrow B$$ means that $$f$$ is a function from $$A$$ to $$B$$
-* $$|A|$$ means the number of elements in the set $$A$$ or the "cardinality" of $$A$$
+* $$\lvert A\rvert$$ means the number of elements in the set $$A$$ or the "cardinality" of $$A$$
 * $$\mathcal P(A)$$ means the power set of $$A$$
 
