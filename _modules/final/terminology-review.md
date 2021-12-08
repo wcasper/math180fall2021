@@ -12,6 +12,7 @@ permalink: /modules/final/terminology-review
 * A composition of $$n$$ is a sequence of positive integers which add up to $$n$$
 * A partition of $$n$$ is a decreasing sequence of positive integers which add up to $$n$$
 * A **function** $$f$$ from $$A$$ to $$B$$ is something which assigns every element $$x$$ of $$A$$ to an element $$f(x)$$ of $$B$$
+* If $$f$$ is a function from $$A$$ to $$B$$ then $$A$$ is called the **domain** and $$B$$ is called the **codomain**.
 * A function $$f$$ from $$A$$ to $$B$$ is **injective** or **one-to-one** if given $$x_1,x_2\in A$$ with $$x_1\neq x_2$$ we must have $$f(x_1)\neq f(x_2)$$
 * A function $$f$$ from $$A$$ to $$B$$ is **surjective** or **onto** if for every $$y\in B$$ there is some $$x\in A$$ with $$f(x) = y$$
 * A function $$f$$ from $$A$$ to $$B$$ is **bijective** if it is both injective and surjective
