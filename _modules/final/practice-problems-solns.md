@@ -43,7 +43,7 @@ $$f: \mathbb R\rightarrow [0,\infty),\ \ f(x) = x^2$$
 
 * Five different sets, all of which are countably infinite
 
-$$\mathbb N,\ \mathbb Z,\ \mathbb Q,\ \mathbb Z^2,\ \{x: x\ \text{is an even integer\}\}.$$
+$$\mathbb{N},\ \mathbb{Z},\ \mathbb{Q},\ \mathbb {Z}^2,\ \{x: x\ \text{is an even integer}\}.$$
 
 * An uncountable set
 
