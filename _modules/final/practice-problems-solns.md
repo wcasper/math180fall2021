@@ -68,7 +68,7 @@ The set of children is larger than the set of mothers since each child has a mot
 
 They set of rational numbers is countable, so they must have the same cardinality.
 
-* The set $$(0,1)$$ of real numbers between $$0$$ and $1$$ or the set $$\mathbb R$$ of all real numbers
+* The set $$(0,1)$$ of real numbers between $$0$$ and $$1$$ or the set $$\mathbb R$$ of all real numbers
 
 They have the same cardinality, as we showed in class.  Do you remember how?
 
