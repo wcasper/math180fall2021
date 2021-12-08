@@ -29,7 +29,7 @@ For each of the following problems, give an example
 For each of the following, determine which set is bigger.  If they are the same size, then write that they are equal.
 
 * The set $$\{1,\heartsuit,\Delta\}$$ or the set $$\{\{1,\heartsuit,\Delta\},2,\diamondsuit\}.$$
-* The set of $$M$$ of (biological) human mothers or the set $$C$$ of (biological) human children
+* The set of $$M$$ of living or dead (biological) human mothers or the set $$C$$ of living or dead (biological) human children
 * The set $$\mathbb N$$ of natural numbers of the set $$\mathbb Q$$ of rational numbers
 * The set $$(0,1)$$ of real numbers between $$0$$ and $1$$ or the set $$\mathbb R$$ of all real numbers
 * The set $$\{\mathbb R,\mathbb Z\}$$ or the set $$B$$ of all even integers.
