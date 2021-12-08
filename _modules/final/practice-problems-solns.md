@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terminology Review
-permalink: /modules/final/practice-problems
+permalink: /modules/final/practice-problems-soln
 ---
 
 ## True or False
